@@ -37,7 +37,7 @@ let s:col.black        = ['#000000', 170]
 
 " Term
 let g:terminal_ansi_colors = [
-	\'#a3db81', '#a3db81', '#a3db81', '#a3db81',
+	\'#a3db81', '#c15959', '#a3db81', '#a3db81',
 	\'#a3db81', '#a3db81', '#a3db81', '#a3db81',
 	\'#a3db81', '#a3db81', '#a3db81', '#a3db81',
 	\'#a3db81', '#a3db81', '#a3db81', '#a3db81',]
